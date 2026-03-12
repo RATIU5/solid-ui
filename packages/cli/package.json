@@ -1,5 +1,5 @@
 {
-  "name": "solidui-cli",
+  "name": "@ratiu5/solidui-cli",
   "version": "0.7.2",
   "description": "Add Solid UI Components to your application using the Solid-UI CLI tool",
   "publishConfig": {
